@@ -1,0 +1,8 @@
+.htauth-sync-options tr > td { vertical-align: top; padding-top: 15px; }
+.htauth-sync-options label { padding-right: 15px; }
+
+.htauth-sync-warning {
+	background-color: #FFFFE0;
+	border: 2px solid #E6DB55;
+	padding: 3px;
+}
